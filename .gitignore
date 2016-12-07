@@ -1,0 +1,12 @@
+*.class
+*.jar
+
+.idea
+*.iml
+*.log*
+
+target/
+src/main/resources/
+src/main/scala/org/deep/learning/util/
+target/generated-sources/
+target/generated-test-sources/
