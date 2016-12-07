@@ -1,1 +1,2 @@
-# ml4Scala
+# dl4s
+Deep Learning for Scala
