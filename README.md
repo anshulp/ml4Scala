@@ -1,2 +1,2 @@
-# dl4s
-Deep Learning for Scala
+# ml4scala
+Machine Learning Algorithms implemented in Scala
